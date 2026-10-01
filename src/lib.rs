@@ -2,4 +2,5 @@
 
 pub mod error;
 pub mod failure;
+pub mod message;
 pub mod state;

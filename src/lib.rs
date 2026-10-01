@@ -3,4 +3,5 @@
 pub mod error;
 pub mod failure;
 pub mod message;
+pub mod retry;
 pub mod state;

@@ -6,3 +6,4 @@ pub mod failure;
 pub mod message;
 pub mod retry;
 pub mod state;
+pub mod storage;

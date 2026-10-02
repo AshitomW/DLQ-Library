@@ -1,5 +1,6 @@
 //! Dead-letter queue (DLQ) and failure management library.
 
+pub mod codec;
 pub mod error;
 pub mod failure;
 pub mod message;
